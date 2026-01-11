@@ -297,13 +297,6 @@ sls logs -f kaamDikhao --startTime 1h
 - [ ] Create Lambda layers for shared code
 - [ ] Implement DynamoDB streams for event processing
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-MIT License
 
 ## 📧 Contact
 
@@ -313,9 +306,3 @@ For questions or feedback:
 - GitHub: pavannn29
 
 ---
-
-**⭐ If you found this project helpful, please give it a star!**
-
-Built with ❤️ using AWS Serverless Services
-
-To learn more about the capabilities of `serverless-offline`, please refer to its [GitHub repository](https://github.com/dherault/serverless-offline).
